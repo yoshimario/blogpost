@@ -1,0 +1,3 @@
+# My First Blog Post in Markdown
+## About my Day
+My day is going well as I have now started my new bootcamp program with Epicodus. I am looking forward to getting into the programming world and am also finishing my last few weeks of my _Associates of Science in Cybersecurity and Networking_. I have two classes left in my degree which will end this summer and am looking forwad to this second degree. I already have a _Bachelors of Arts in Digital Cinema and Videogame Design_.
