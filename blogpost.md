@@ -11,4 +11,7 @@ I have been to many countries and really miss the ability to tavel and hoping th
 1. Finland: This was my first country that I visited in the _Scandanavian_ region in July 2019. I loved it so much that I had went back in late October of the same year. The culture was amazing and the scenery was one of my favorite things. Also the colder weather and less daylight was another part I enjoyed. Some photos that I have taken in Finland can be found here https://seanpwilson.com/media/photography/travels/finland-2019/.
 2. Sweden: Another wonderful country was Sweden though I only got to see it for one day as I took an overnight ferry from Helsinki, Finland to Stockholm, Sweden for a day trip.
 3. Iceland: Iceland was an amazing country that is extremely photogenic. 
-[Blue Lagoon](https://seanpwilson.com/wp-content/uploads/sites/1/nggallery/iceland-2019/IMG_2947.jpeg)
+
+![Blue Lagoon](https://seanpwilson.com/wp-content/uploads/sites/1/nggallery/iceland-2019/IMG_2947.jpeg)
+* The Blue Lagoon in Iceland was an amazing and relaxing geothermal!
+* The food at the restaurant was amazing to but expensive.
